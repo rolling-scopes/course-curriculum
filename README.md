@@ -54,13 +54,13 @@
 
 
 ---
-![Video](http://www.bokagardens.com/images/yt.svg) **Video Playlists**
+![Video](https://github.com/rolling-scopes/course-curriculum/blob/master/img/video.svg) **Video Playlists**
 
  - [Playlist 1](https://www.youtube.com/playlist?list=PLe--kalBDwjgwrEDcOKXba_v6ciHoq_8H)
  - [Playlist 2](https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu)
 
 -----
 
-![Tasks](https://goo.gl/mP17yu)**Tasks**
+![Tasks](https://github.com/rolling-scopes/course-curriculum/blob/master/img/tasks.png)**Tasks**
 
 [All tasks](https://github.com/rolling-scopes-school/tasks/tree/master)
