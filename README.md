@@ -15,7 +15,8 @@
 - Lecture 8
 - Lecture 9
 - Lecture 10
-___
+
+---
 **JavaScript Part** 
  
 *Approximately 30 lectures / 10 weeks.* 
@@ -48,6 +49,8 @@ ___
 - Lecture 26
 - Lecture 27
 - Lecture 28
+- Lecture 29
+- Lecture 30
 
 
 ---
