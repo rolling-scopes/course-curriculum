@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # COURSE CURRICULUM
 ---
 ---
@@ -56,3 +57,6 @@ ___
 ---
 ### ![alt text](http://libraries.boroondara.vic.gov.au/sites/default/files/styles/accordion_icon/public/acc-icon-homework.png?itok=H5NUf1GS "Tasks")Tasks
 [All Tasks](https://github.com/rolling-scopes-school/tasks/tree/master)
+=======
+# course-curriculum
+>>>>>>> 90e927f2edcdba6032d8e570dc9f2343d9c0ca49
