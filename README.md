@@ -54,7 +54,7 @@
 
 
 ---
-![Video](https://github.com/rolling-scopes/course-curriculum/blob/master/img/video.svg) **Video Playlists**
+![Video](https://github.com/rolling-scopes/course-curriculum/blob/master/img/video.png) **Video Playlists**
 
  - [Playlist 1](https://www.youtube.com/playlist?list=PLe--kalBDwjgwrEDcOKXba_v6ciHoq_8H)
  - [Playlist 2](https://www.youtube.com/playlist?list=PLbZju76qr6FH77EtbZFLHZRb7IY7Ve6Uu)
