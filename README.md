@@ -1,12 +1,12 @@
 # **COURSE CURRICULUM**
 ---
-**HTML & CSS Part** 
+![HTML](https://github.com/rolling-scopes/course-curriculum/blob/master/img/html5.png)    **HTML & CSS Part** 
 
 *Approximately 10 lectures / 3 weeks.* 
 
 
-- Course Overview. Git basics.
-- HTML & CSS Basics
+- [Course Overview. Git basics.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Course-Overview.-Git-basics.)
+- [HTML & CSS Basics] (https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTML-&-CSS-Basics)
 - HTML Day II. Box model
 - Lecture 4
 - Lecture 5
@@ -17,7 +17,7 @@
 - Lecture 10
 
 ---
-**JavaScript Part** 
+![JS](https://github.com/rolling-scopes/course-curriculum/blob/master/img/js.png)     **JavaScript Part** 
  
 *Approximately 30 lectures / 10 weeks.* 
    
@@ -64,3 +64,9 @@
 ![Tasks](https://github.com/rolling-scopes/course-curriculum/blob/master/img/tasks.png)**Tasks**
 
 [All tasks](https://github.com/rolling-scopes-school/tasks/tree/master)
+
+-----
+
+![Feedback](https://github.com/rolling-scopes/course-curriculum/blob/master/img/feedback.png)**Feedback**
+
+[Click here to leave feedback](https://github.com/rolling-scopes-school/tasks/tree/master)
