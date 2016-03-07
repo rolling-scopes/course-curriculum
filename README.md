@@ -69,4 +69,4 @@
 
 ![Feedback](https://github.com/rolling-scopes/course-curriculum/blob/master/img/feedback.png)**Feedback**
 
-[Click here to leave feedback](https://github.com/rolling-scopes-school/tasks/tree/master)
+[Click here to leave feedback](https://docs.google.com/forms/d/1F4NeS0oBq-CY805aqiPVp6CIrl4_nIYJ7Z_vUcMOFrQ/viewform)
