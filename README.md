@@ -7,7 +7,7 @@
 
 - [Course Overview. Git basics.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Course-Overview.-Git-basics.)
 - [HTML & CSS Basics] (https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTML-&-CSS-Basics)
-- HTML Day II. Box model
+- [HTML Day II. Box model] (https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTML-Day-II.-Box-model)
 - Lecture 4
 - Lecture 5
 - Lecture 6 
