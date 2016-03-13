@@ -8,8 +8,8 @@
 - [Course Overview. Git basics.](https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Course-Overview.-Git-basics.)
 - [HTML & CSS Basics] (https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTML-&-CSS-Basics)
 - [HTML Day II. Box model] (https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTML-Day-II.-Box-model)
-- Lecture 4
-- Lecture 5
+- [Git] (https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
+- [Sublime Text. Web Typography] (https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Sublime-Text.-Web-typography)
 - Lecture 6 
 - Lecture 7
 - Lecture 8
