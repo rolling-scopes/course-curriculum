@@ -10,7 +10,7 @@
 - [HTML Day II. Box model] (https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-HTML-Day-II.-Box-model)
 - [Git] (https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
 - [Sublime Text. Web Typography] (https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Sublime-Text.-Web-typography)
-- Lecture 6 
+- [CSS Recipes] (https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Recipes)
 - Lecture 7
 - Lecture 8
 - Lecture 9
