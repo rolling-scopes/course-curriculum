@@ -11,7 +11,7 @@
 - [Git] (https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Git)
 - [Sublime Text. Web Typography] (https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-Sublime-Text.-Web-typography)
 - [CSS Recipes] (https://github.com/rolling-scopes/front-end-course/wiki/Lecture:-CSS-Recipes)
-- Lecture 7
+- [CSS basics on practice. Workshop] (https://github.com/rolling-scopes/front-end-course/wiki/Workshop:-CSS-basics-on-practice)
 - Lecture 8
 - Lecture 9
 - Lecture 10
